@@ -16,6 +16,7 @@ public class Test {
 	while(I.hasNext())
 	{
 		System.out.println(I.next());
+		System.out.println(I.next());
 	}
 
 	
